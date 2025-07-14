@@ -124,7 +124,7 @@ namespace FortiClientRouteTableFix
             while (true)
             {
                 LoopChecking(ipList);
-                PrintIP();
+                //PrintIP();
 
 
                 if (preventNextSleep)
