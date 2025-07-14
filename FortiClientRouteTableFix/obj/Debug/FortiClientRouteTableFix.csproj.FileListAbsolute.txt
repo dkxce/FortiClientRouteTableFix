@@ -1,0 +1,7 @@
+C:\Users\dkxce\source\repos2\FortiClientRouteTableFix\FortiClientRouteTableFix\bin\Debug\FortiClientRouteTableFix.exe.config
+C:\Users\dkxce\source\repos2\FortiClientRouteTableFix\FortiClientRouteTableFix\bin\Debug\FortiClientRouteTableFix.exe
+C:\Users\dkxce\source\repos2\FortiClientRouteTableFix\FortiClientRouteTableFix\bin\Debug\FortiClientRouteTableFix.pdb
+C:\Users\dkxce\source\repos2\FortiClientRouteTableFix\FortiClientRouteTableFix\obj\Debug\FortiClientRouteTableFix.csproj.AssemblyReference.cache
+C:\Users\dkxce\source\repos2\FortiClientRouteTableFix\FortiClientRouteTableFix\obj\Debug\FortiClientRouteTableFix.csproj.CoreCompileInputs.cache
+C:\Users\dkxce\source\repos2\FortiClientRouteTableFix\FortiClientRouteTableFix\obj\Debug\FortiClientRouteTableFix.exe
+C:\Users\dkxce\source\repos2\FortiClientRouteTableFix\FortiClientRouteTableFix\obj\Debug\FortiClientRouteTableFix.pdb
